@@ -1,0 +1,2 @@
+# app-ads.txt for every Casual Factory game (served at the root of the developer website).
+# Paste the lines from the LevelPlay dashboard (Monetize > app-ads.txt) below, then republish Store/_site.
